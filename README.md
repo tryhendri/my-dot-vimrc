@@ -6,11 +6,11 @@ Just want to collect some changes during endeavour on VIM.
 
 ####VIM NOTES:
 ######Moving :
->  ctrl+f = move one screen up
->  ctr+b = move one screen down
-> gg = move to begiiing
-> G = back to down
-> repeat command = .
+* ctrl+f = move one screen up
+* ctr+b = move one screen down
+* gg = move to begiiing
+* G = back to down
+* repeat command = .
 
 ######Editing :
 > :e $MYVIMRC = edit .vimrc
